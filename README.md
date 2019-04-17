@@ -1,2 +1,3 @@
 # New-Game
 My first game
+Hello there. Beginner in git-hub and expecting some fun out of it....
